@@ -55,6 +55,18 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.rapture</groupId>
+      <artifactId>RaptureLicense</artifactId>
+      <version>1.0.0-RC10</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.rapture</groupId>
+      <artifactId>RaptureAPI</artifactId>
+      <version>1.0.0-RC10</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-api</artifactId>
       <version>1.6.1</version>
@@ -97,6 +109,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.rapture</groupId>
+      <artifactId>Reflex</artifactId>
+      <version>1.0.0-RC10</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>org.antlr</groupId>
       <artifactId>antlr-runtime</artifactId>
       <version>3.4</version>
@@ -127,39 +145,21 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.rapture</groupId>
-      <artifactId>RaptureAPI</artifactId>
-      <version>1.0.0-RC10</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.rapture</groupId>
-      <artifactId>RaptureLicense</artifactId>
-      <version>1.0.0-RC10</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>org.apache.httpcomponents</groupId>
       <artifactId>httpclient</artifactId>
       <version>4.2.2</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.rapture</groupId>
-      <artifactId>RaptureAddinCore</artifactId>
-      <version>1.0.0-RC10</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.rapture</groupId>
-      <artifactId>Reflex</artifactId>
-      <version>1.0.0-RC10</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>org.apache.lucene</groupId>
       <artifactId>lucene-core</artifactId>
       <version>3.5.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.rapture</groupId>
+      <artifactId>RaptureAddinCore</artifactId>
+      <version>1.0.0-RC10</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
