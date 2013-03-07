@@ -25,6 +25,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.rapture</groupId>
+      <artifactId>Reflex</artifactId>
+      <version>1.0.0-RC10</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>org.apache.httpcomponents</groupId>
       <artifactId>httpcore</artifactId>
       <version>4.2.2</version>
@@ -61,21 +67,15 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>org.slf4j</groupId>
-      <artifactId>slf4j-api</artifactId>
-      <version>1.6.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.rapture</groupId>
       <artifactId>RaptureAPI</artifactId>
       <version>1.0.0-RC10</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>org.apache.httpcomponents</groupId>
-      <artifactId>httpcore-nio</artifactId>
-      <version>4.2.2</version>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-api</artifactId>
+      <version>1.6.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -85,9 +85,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.rapture</groupId>
-      <artifactId>Reflex</artifactId>
-      <version>1.0.0-RC10</version>
+      <groupId>org.apache.httpcomponents</groupId>
+      <artifactId>httpcore-nio</artifactId>
+      <version>4.2.2</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
